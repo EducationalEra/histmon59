@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Тема 2. Княжа Русь-Україн
+# Тема 2. Княжа Русь-Україна
 
 <table>
   <tr>

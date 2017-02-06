@@ -5,158 +5,139 @@
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">1 клас</a></li>
-    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">2 клас</a></li>
-    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">3 клас</a></li>
-    <li role="presentation"><a href="#menu3" aria-controls="menu3" role="tab" data-toggle="tab">4 клас</a></li>
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">5 клас</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">6 клас</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">7 клас</a></li>
+    <li role="presentation"><a href="#menu3" aria-controls="menu3" role="tab" data-toggle="tab">8 клас</a></li>
+    <li role="presentation"><a href="#menu4" aria-controls="menu4" role="tab" data-toggle="tab">9 клас</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="home"><h3><a href="http://ukrmon14.ed-era.com/1/1_klas.html">1 клас</a></h3>
+    <div role="tabpanel" class="tab-pane active" id="home"><h3>5 клас</h3>
 <ul type="disc">
-<li><a href="http://ukrmon14.ed-era.com/1/navchannya_gramoti.html">Навчання грамоти</a></li>
+<li><a href="https://histmon59.ed-era.com/1/vstup_do_istorii_ukrainy.html">Вступ до історії України</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/navchannya_chitati.html">Навчання читати</a></li>
-<ul type="square">
-<li><a href="http://ukrmon14.ed-era.com/1/dobukvarniy_period.html">Добукварний період</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/bukvarniy_period.html">Букварний період</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/pislyabukvarniy_period.html">Післябукварний період</a></li>
+<li><a href="https://histmon59.ed-era.com/1/vstup.html">Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/1/znayomstvo_z_istorieyu.html">Знайомство з історією</a></li>
+<li><a href="https://histmon59.ed-era.com/1/knyazha_rus_ukraina.html">Княжа Русь-Україна</a></li>
+<li><a href="https://histmon59.ed-era.com/1/kozacka_ukraina.html">Козацька Україна</a></li>
+<li><a href="https://histmon59.ed-era.com/1/ukraina_v_xix_xx_st.html">Україна в ХІХ—ХХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/1/ukraina_suchasna.html">Україна сучасна</a></li>
 </ul>
-</ul>
+<li><a href="https://histmon59.ed-era.com/2/vstup_do_istorii_ukrainy.html">Історія України (Вступ до історії)</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/navchannya_pisma.html">Навчання письма. Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
-<ul type="square">
-<li><a href="http://ukrmon14.ed-era.com/1/dobukvarniy-period.html">Добукварний період</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/bukvarniy-period.html">Букварний період</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/pislyabukvarniy-period.html">Післябукварний період</a></li>
-</ul>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/1/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/chitannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/pismo.html">Письмо</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/1/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/tekst_rechennya_slovo.html">Текст. Речення. Слово</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/zvuki_i_bukvi_sklad_nagolos.html">Звуки і букви. Склад. Наголос</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/pravopis.html">Правопис</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/1/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/1/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/formuvannya-navchalno-intelektualnikh-i-tvorchikh-umin-ta-navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/1/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
+<li><a href="https://histmon59.ed-era.com/2/zvydky_ta_yak_pro_mynule.html">Звідки і як історики довідуються про минуле</a></li>
+<li><a href="https://histmon59.ed-era.com/2/pro_scho_ta_kogo_rozpovidaye_istoriya.html">Про що і про кого розповідає історія</a></li>
+<li><a href="https://histmon59.ed-era.com/2/ist_pamyatky_pro_mynule.html">Що історичні пам’ятки розповідають про минуле</a></li>
+<li><a href="https://histmon59.ed-era.com/2/uzagalnennya.html">Узагальнення  до курсу</a></li>
 </ul>
 </ul>
 </div>
-<div role="tabpanel" class="tab-pane" id="menu1"><h3><a href="http://ukrmon14.ed-era.com/2/2_klas.html">2 клас</a></h3>
+<div role="tabpanel" class="tab-pane" id="menu1"><h3>6 клас</h3>
 <ul type="disc">
-<li><a href="http://ukrmon14.ed-era.com/2/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
+<li><a href="https://histmon59.ed-era.com/3/inegrovanyu_kurs.html">Інтегрований курс («Всесвітня історія. Історія України»)</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/2/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/chitannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/pisemne_movlennya.html">Писемне мовлення</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/2/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/2/zvuki_i_bukvi.html">Звуки і букви</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/slovo.html">Слово</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/korin_slova_spilnokorenevi_sporidneni_slova.html">Корінь слова. Спільнокореневі (споріднені) слова</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/rechennya.html">Речення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/tekst.html">Текст</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/mova_i_movlennya.html">Мова і мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/povtorennya_vivchenogo_za_rik.html">Повторення вивченого за рік</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/pravopis.html">Правопис</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/grafichni_navichki_pisma_tekhnika_pisma_kultura_oformlennya_pismovikh_robit.html">Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/2/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/2/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/2/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
-</ul>
-</ul>
-</div>
-<div role="tabpanel" class="tab-pane" id="menu2"><h3><a href="http://ukrmon14.ed-era.com/3/3_klas.html">3 клас</a></h3>
-<ul type="disc">
-<li><a href="http://ukrmon14.ed-era.com/3/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/3/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/chitannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/pisemne_movlennya.html">Писемне мовлення</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/3/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/3/mova_i_movlennya.html">Мова і мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/tekst.html">Текст</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/rechennya.html">Речення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/slovo_znachennya_slova.html">Слово. Значення слова</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/budova_slova.html">Будова слова</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/chastini_movi_zagalne_ponyattya.html">Частини мови. Загальне поняття</a></li>
+<li><a href="https://histmon59.ed-era.com/3/povtorennya_vstup.html">Повторення. Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/3/pervysny_chasy.html">Життя людей  за первісних часів</a></li>
+<li><a href="https://histmon59.ed-era.com/3/starodavnyu_skhyd.html">Цивілізації Cтародавнього Сходу</a></li>
 <ul type="square">
-<li><a href="http://ukrmon14.ed-era.com/3/imennik.html">Іменник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/prikmetnik.html">Прикметник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/diyeslovo.html">Дієслово</a></li>
+<li><a href="https://histmon59.ed-era.com/3/starodavnyu_egypt.html">Стародавній Єгипет</a></li>
+<li><a href="https://histmon59.ed-era.com/3/aziya.html">Цивілізації Передньої та Центральної Азії. Кіммерійсько-скіфський світ</a></li>
+<li><a href="https://histmon59.ed-era.com/3/starodavni_indiya_ta_kitay.html">Стародавні Індія та Китай</a></li>
 </ul>
-<li><a href="http://ukrmon14.ed-era.com/3/povtorennya_vivchenogo_za_rik.html">Повторення вивченого за рік</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/fonetika_i_grafika_pravopis.html">Фонетика і графіка. Правопис</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/grafichni_navichki_pisma_tekhnika_pisma_kultura_oformlennya_pismovikh_robit.html">Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/3/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/3/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
-</ul>
-</ul>
-</div>
-<div role="tabpanel" class="tab-pane" id="menu3"><h3><a href="http://ukrmon14.ed-era.com/4/4_klas.html">4 клас</a></h3>
-<ul type="disc">
-<li><a href="http://ukrmon14.ed-era.com/4/movlennyeva_zmistova_liniya.html">Мовленнєва змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/audiyuvannya.html">Аудіювання – слухання-розуміння усного мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/govorinnya.html">Говоріння</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/chiannya.html">Читання</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/pisemne_movlennya.html">Писемне мовлення</a></li>
-</ul>
-<li><a href="http://ukrmon14.ed-era.com/4/movna_zmistova_liniya.html">Мовна змістова лінія</a></li>
-<ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/mova_i_movlennya.html">Мова і мовлення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/tekst.html">Текст</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/rechennya.html">Речення</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/slovo_znachennya_slova_chastini_movi.html">Слово. Значення слова. Частини мови</a></li>
+<li><a href="https://histmon59.ed-era.com/3/starodavnya_greciya.html">Історія  Cтародавньої Греції</a></li>
 <ul type="square">
-<li><a href="http://ukrmon14.ed-era.com/4/imennik.html">Іменник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/prikmetnik.html">Прикметник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/chislivnik.html">Числівник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/zaymennik.html">Займенник</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/diyeslovo.html">Дієслово</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/prislivnik.html">Прислівник</a></li>
+<li><a href="https://histmon59.ed-era.com/3/stanovlennya_grec_civilizaciyi.html">Становлення античної грецької цивілізації</a></li>
+<li><a href="https://histmon59.ed-era.com/3/klasychna_doba.html">Антична грецька цивілізація класичної доби</a></li>
+<li><a href="https://histmon59.ed-era.com/3/doba_ellinizmu.html">Доба Еллінізму</a></li>
 </ul>
-<li><a href="http://ukrmon14.ed-era.com/4/povtorennya_vivchenogo_u_pochatkovikh_klasah.html">Повторення вивченого у початкових класах</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/pravopis.html">Правопис</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/grafichni_navichki_pisma_tekhnika_pisma_kultura_oformlennya_pismovikh_robit.html">Графічні навички письма. Техніка письма. Культура оформлення письмових робіт</a></li>
+<li><a href="https://histmon59.ed-era.com/3/starodavniy_rim.html">Історія  Cтародавнього Риму</a></li>
+<ul type="square">
+<li><a href="https://histmon59.ed-era.com/3/carska_ta_respublikanska_doba.html">Стародавній Рим за царської та республіканської доби</a></li>
+<li><a href="https://histmon59.ed-era.com/3/rimska_imperiya.html">Римська імперія</a></li>
 </ul>
-<li><a href="http://ukrmon14.ed-era.com/4/diyalnisna_zmistova_liniya.html">Діяльнісна змістова лінія</a></li>
+<li><a href="https://histmon59.ed-era.com/3/uzagalnennya.html">Узагальнення  до курсу</a></li>
+</ul>
+</ul>
+</div>
+<div role="tabpanel" class="tab-pane" id="menu2"><h3>7 клас</h3>
+<ul type="disc">
+<li><a href="https://histmon59.ed-era.com/4/istoriya_ukrainy.html">Історія України</a></li>
 <ul type="circle">
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-organizatsiynikh_umin_i_navichok.html">Формування навчально-організаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-informatsiynikh_umin_i_navichok.html">Формування навчально-інформаційних умінь і навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_navchalno-intelektualnikh_i_tvorchikh_umin_ta_navichok.html">Формування навчально-інтелектуальних і творчих умінь та навичок</a></li>
-<li><a href="http://ukrmon14.ed-era.com/4/formuvannya_kontrolno-otsinyuvalnikh_umin_i_navichok.html">Формування контрольно-оцінювальних умінь і навичок</a></li>
+<li><a href="https://histmon59.ed-era.com/4/povtorennya_vstup.html">Повторення. Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/4/rus_ukraina.html">Виникнення та становлення Русі-України</a></li>
+<li><a href="https://histmon59.ed-era.com/4/kievska_derzhava.html">Київська держава (Русь-Україна) наприкінці Х – у першій половині ХІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/4/kievska_derzhava_xi_xiii.html">Київська держава (Русь-Україна) у другій половині ХІ – першій половині ХІІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/4/galycko_valynska_derzhava.html">Галицько-Волинська держава</a></li>
+<li><a href="https://histmon59.ed-era.com/4/ukr_zemly_u_sklady_vkl_ta_inshych_derzhav.html">Українські землі у складі Великого князівства Литовського та інших держав (друга половина ХІV – ХV ст.)</a></li>
+<li><a href="https://histmon59.ed-era.com/4/uzagalnennya.html">Узагальнення  до курсу</a></li>
 </ul>
+<li><a href="https://histmon59.ed-era.com/5/vsesvitnya_istoriya.html">Всесвітня історія</a></li>
+<ul type="circle">
+<li><a href="https://histmon59.ed-era.com/5/povtorennya_vstup.html">Повторення. Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/5/pershi_serednovichni_derzhavy.html">Перші середньовічні держави</a></li>
+<li><a href="https://histmon59.ed-era.com/5/serednyovichhya_zkh_evropa.html">Середньовічний світ Західної Європи</a></li>
+<li><a href="https://histmon59.ed-era.com/5/evropeyske_suspilstvo.html">Європейське суспільство і держави в Х – ХV ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/5/mat_ta_dukh_svyt_evrop_serednyovychhya.html">Матеріальний і духовний світ Європейського Середньовіччя</a></li>
+<li><a href="https://histmon59.ed-era.com/5/krainy_centraknoyi_ta_skhidnoyi_evropy.html">Країни Центральної та Східної Європи в Х – ХV ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/5/serednyovichniy_skhid.html">Середньовічний Схід</a></li>
+<li><a href="https://histmon59.ed-era.com/5/uzagalnennya.html">Узагальнення  до курсу</a></li>
 </ul>
 </ul>
 </div>
+<div role="tabpanel" class="tab-pane" id="menu3"><h3>8 клас</h3>
+<ul type="disc">
+<li><a href="https://histmon59.ed-era.com/6/istoriya_ukrainy.html">Історія України</a></li>
+<ul type="circle">
+<li><a href="https://histmon59.ed-era.com/6/povtorennya_vstup.html">Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvi_st.html">Українські землі в ХVІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvi_xvii_st.html">Українські землі наприкінці ХVІ – у першій половині ХVІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/6/nacionalno_vyzvolna_viyna.html">Національно-визвольна війна українського народу середини XVII ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvii_xviii_st.html">Українські землі наприкінці 50-х років ХVІІ – на початку ХVІІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_20_90_rokach_xviii_st.html">Українські землі у 20–90-х рр. ХVІІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/6/uzagalnennya.html">Узагальнення  до курсу</a></li>
+</ul>
+<li><a href="https://histmon59.ed-era.com/7/vsesvitnya_istoriya.html">Всесвітня історія</a></li>
+<ul type="circle">
+<li><a href="https://histmon59.ed-era.com/7/vstup.html">Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/7/velyki_geografychni_vidkrittya.html">Великі географічні відкриття та становлення капіталістичних відносин</a></li>
+<li><a href="https://histmon59.ed-era.com/7/vydrodzhennya_reformaciya.html">Високе Відродження. Реформація в Західній Європі</a></li>
+<li><a href="https://histmon59.ed-era.com/7/derzhavy_zakhidnoyi_evropy.html">Держави Західної Європи у ХVІ — ХVІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/7/osmanska_imperiya_krayiny_skhidnoyi_evropy.html">Османська імперія. Країни східної Європи у XVI — першій половині XVIII ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/7/epokha_prosvytnyctva.html">Епоха Просвітництва</a></li>
+<li><a href="https://histmon59.ed-era.com/7/skhidniy_svyt.html">Східний світ в ХVІ – ХVІІІ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/7/uzagalnennya.html">Узагальнення  до курсу</a></li>
+</ul>
+</ul>
 </div>
+<div role="tabpanel" class="tab-pane" id="menu4"><h3>9 клас</h3>
+<ul type="disc">
+<li><a href="https://histmon59.ed-era.com/8/istoriya_ukrainy.html">Історія України</a></li>
+<ul type="circle">
+<li><a href="https://histmon59.ed-era.com/8/povtorennya_vstup.html">Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/8/form_modernoyi_naciyi.html">Формування модерної української нації. Теорія та суспільні виклики першої половини XIX ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/ukr_zemli_v_xviii_xix_st.html">Українські землі у складі Російської та Австрійської імперій наприкінці XVІІІ – у першій третині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/soc_ekonom_zhittya_ta_ukr_nac_rukh.html">Соціально-економічне життя народу та український національний рух у першій половині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/kulturne_zhittya.html">Культурне життя в українських землях наприкінці наприкінці ХVІІІ – у першій половині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/modernizaciya_ukr_suspilstva.html">Модернізація українського суспільства в середині — у другій половині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/nacionalna_ideya_ykrayinofily.html">Національна ідея. Українофільський культурницький і політичний етапи визвольного руху</a></li>
+<li><a href="https://histmon59.ed-era.com/8/suspilno_politychniy_rukh.html">Суспільно-політичний рух в Україні у другій половині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/kulturne_zhittya_druga_polovyna_xix_st.html">Культурне життя України в другій половині XIX ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/8/nash_kray.html">Наш край наприкінці XVIII — у XІX ст.</a></li>
+</ul>
+<li><a href="https://histmon59.ed-era.com/9/vsesvitnya_istoriya.html">Всесвітня історія</a></li>
+<ul type="circle">
+<li><a href="https://histmon59.ed-era.com/9/vstup.html">Вступ</a></li>
+<li><a href="https://histmon59.ed-era.com/9/velyka_francuzka_revolyuciya.html">Велика французька революція кінця ХVІІІ ст. Європа в період наполеонівських війн</a></li>
+<li><a href="https://histmon59.ed-era.com/9/evropa_ta_amerika.html">Європа й Америка в першій половині XIX ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/9/evropa_ta_amerika_u_dobu_obyednannya_ta_modernizaciyi_suspilstva.html">Європа й Америка у добу об’єднання і модернізації суспільства</a></li>
+<li><a href="https://histmon59.ed-era.com/9/utverdzhennya_industrialnogo_suspilstva.html">Утвердження індустріального суспільства в провідних державах світу</a></li>
+<li><a href="https://histmon59.ed-era.com/9/mizhnarodny_vidnosyny.html">Завершення формування світових колоніальних імперій. Міжнародні відносини в останній третині ХІХ ст.</a></li>
+<li><a href="https://histmon59.ed-era.com/9/kultura_narodyv_svitu.html">Культура народів світу наприкінці ХVІІІ — у ХІХ ст.</a></li>
+</ul>
+</ul>
 </div>
+
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
