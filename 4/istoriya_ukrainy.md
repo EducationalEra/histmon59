@@ -2,7 +2,7 @@
 
 # Історія України
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/4/povtorennya_vstup.html">Повторення. Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/4/rus_ukraina.html">Виникнення та становлення Русі-України</a></li>

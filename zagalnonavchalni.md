@@ -3,7 +3,7 @@
 Загальнонавчальні
 =============================================
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="disc">
 <li><a href="https://histmon59.ed-era.com/rozumovi.html">Розумові</a></li>
 <li><a href="https://histmon59.ed-era.com/movlennyevi.html">Мовленнєві (усні та письмові)</a></li>

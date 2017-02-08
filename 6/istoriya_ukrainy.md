@@ -2,7 +2,7 @@
 
 # Історія України
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/6/povtorennya_vstup.html">Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/6/ukr_zemli_v_xvi_st.html">Українські землі в ХVІ ст.</a></li>

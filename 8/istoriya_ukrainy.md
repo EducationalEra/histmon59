@@ -2,7 +2,7 @@
 
 # Історія України
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/8/povtorennya_vstup.html">Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/8/form_modernoyi_naciyi.html">Формування модерної української нації. Теорія та суспільні виклики першої половини XIX ст.</a></li>

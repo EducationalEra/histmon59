@@ -2,7 +2,7 @@
 
 # Розділ ІV. Історія  Cтародавнього Риму
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="square">
 <li><a href="https://histmon59.ed-era.com/3/carska_ta_respublikanska_doba.html">Стародавній Рим за царської та республіканської доби</a></li>
 <li><a href="https://histmon59.ed-era.com/3/rimska_imperiya.html">Римська імперія</a></li>

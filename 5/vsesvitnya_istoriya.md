@@ -2,7 +2,7 @@
 
 # Всесвітня історія
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/5/povtorennya_vstup.html">Повторення. Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/5/pershi_serednovichni_derzhavy.html">Перші середньовічні держави</a></li>

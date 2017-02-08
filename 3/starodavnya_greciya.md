@@ -2,7 +2,7 @@
 
 # Розділ ІII. Історія  Cтародавньої Греції
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="square">
 <li><a href="https://histmon59.ed-era.com/3/stanovlennya_grec_civilizaciyi.html">Становлення античної грецької цивілізації</a></li>
 <li><a href="https://histmon59.ed-era.com/3/klasychna_doba.html">Антична грецька цивілізація класичної доби</a></li>

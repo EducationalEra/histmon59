@@ -3,7 +3,7 @@
 Предметно-історичні
 =============================================
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="disc">
 <li><a href="https://histmon59.ed-era.com/khronologichni.html">Хронологічні</a></li>
 <li><a href="https://histmon59.ed-era.com/kartographychni.html">Картографічні</a></li>

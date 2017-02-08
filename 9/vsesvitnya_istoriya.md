@@ -2,7 +2,7 @@
 
 # Всесвітня історія
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/9/vstup.html">Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/9/velyka_francuzka_revolyuciya.html">Велика французька революція кінця ХVІІІ ст. Європа в період наполеонівських війн</a></li>

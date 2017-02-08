@@ -2,7 +2,7 @@
 
 # Всесвітня історія
 
-<b>Зміст:</b><br>
+<b>Зміст розділу:</b><br>
 <ul type="circle">
 <li><a href="https://histmon59.ed-era.com/7/vstup.html">Вступ</a></li>
 <li><a href="https://histmon59.ed-era.com/7/velyki_geografychni_vidkrittya.html">Великі географічні відкриття та становлення капіталістичних відносин</a></li>
